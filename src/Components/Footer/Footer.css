@@ -1,0 +1,29 @@
+.icon{
+    margin:7px;
+    margin-left: 1rem;
+    font-size: 24px;
+    margin-top:5px;
+}
+h3{
+    margin-left: -3rem;
+}
+.logovi{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.left{
+    margin-left: 1rem;
+}
+.pa{
+    margin-top: 3px;
+    font-size: small;
+}
+.footer{
+    margin-top: 3rem;
+}
+td:hover{
+    text-decoration: underline;
+}
+.a{
+    margin: 5px;
+}

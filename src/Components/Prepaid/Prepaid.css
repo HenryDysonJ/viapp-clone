@@ -1,0 +1,45 @@
+h1{
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 4rem;
+}
+.card{
+    background-color: rgb(246, 248, 250);
+    margin-left: 3rem;
+    height: 12rem;
+    width: 15rem;
+    margin: 50px;
+}
+.cds{
+    text-align: center;
+    margin-left: 6rem;
+}
+.unl:hover{
+   color: rgb(255, 0, 0);
+   text-decoration: underline;
+}
+.amt{
+    margin:3px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.btn{
+    margin:1px;
+}
+.but{
+    text-align: center;
+}
+.unl{
+    text-decoration: underline;   
+
+}
+/*Postpaid*/
+
+.posthead:hover{
+    color: red;
+}
+.month{
+    font-size: small;
+    font-weight: 400;
+}

@@ -1,0 +1,69 @@
+.btn{
+    margin:1px;
+}
+h1{
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 4rem;
+}
+.cards{
+    background-color: rgb(246, 248, 250);
+    margin-left: 3rem;
+    height: 20rem;
+    width: 16rem;
+    margin: 50px;
+}
+.cdss{
+    text-align: center;
+    margin-left: 6rem;
+}
+.unl:hover{
+   color: rgb(255, 0, 0);
+   text-decoration: underline;
+}
+.amt{
+    margin:3px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.btn{
+    margin:1px;
+}
+.but{
+    text-align: center;
+}
+.unl{
+    text-decoration: underline;   
+
+}
+
+.posthead:hover{
+    color: red;
+}
+.month{
+    font-size: small;
+    font-weight: 400;
+}
+.data{
+    margin-left: 0px;
+}
+.mar{
+    margin: 2px;
+    text-align: right;
+}
+.data{
+    margin-left: 1rem;
+    margin-right: 2px;
+    text-align: left;
+}
+td{
+    margin: 1rem;
+    font-weight: 500;
+    font-size: small;
+}
+.btm{
+    text-align: center;
+    margin-left: 2rem;
+    margin-top: 3rem;
+}

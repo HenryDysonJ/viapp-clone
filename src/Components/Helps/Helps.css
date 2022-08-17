@@ -1,0 +1,42 @@
+h3{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 2rem;
+}
+.bcard{
+    text-align: center;
+    margin-top: 1rem;
+}
+.cars{
+    margin: 5px;
+    background-color: rgb(235, 242, 250);
+    margin-left: 3rem;
+    height: 17rem;
+    width: 13rem;
+}
+.wht-logo{
+    margin-left: -5rem;
+    margin-top: 2rem;
+}
+.wht{
+    margin-left: -4rem;
+    margin-top: -8rem;
+    text-align: left;
+}
+.par{
+    text-align: justify;
+    margin-left: 10px;
+    margin-top: 2rem;
+}
+.re{
+    text-decoration: underline;
+}
+.icon{
+    margin:7px;
+    margin-left: 1rem;
+    font-size: 25px;
+}
+.im{
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
